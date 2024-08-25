@@ -20,8 +20,8 @@ The Smart Shopping Cart MVP is a proof-of-concept project designed to enhance th
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/smart-shopping-cart-mvp.git
-    cd smart-shopping-cart-mvp
+    git clone https://github.com/yourusername/Smart-shopping-cart.git
+    cd smart-shopping-cart
     ```
 
 2. **Set Up Virtual Environment:**
@@ -43,7 +43,7 @@ The Smart Shopping Cart MVP is a proof-of-concept project designed to enhance th
 2. **Run the Object Detection Script:**
     - Start the detection process by running the following command:
     ```bash
-    python detect.py --source [path_to_images_or_video]
+    python Item_recognition.py
     ```
 
 3. **Displaying the Bill:**
